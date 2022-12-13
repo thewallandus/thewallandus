@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aitijya Sarkar</h1>
-<h3 align="center">A full stack web dev from India</h3>
+<h3 align="center">Someone who's knee deep into full stack web dev right now</h3>
 
 <p align="left"> <a href="https://twitter.com/@thewallandthem" target="blank"><img src="https://img.shields.io/twitter/follow/@thewallandthem?logo=twitter&style=for-the-badge" alt="@thewallandthem" /></a> </p>
 
-- 🌱 I’m currently learning **the MERN stack [HTML, CSS, Javascript, React, MongoDB, Express, and Node].**
+- 🌱 I’m currently learning **the MERN stack [HTML, CSS, Javascript, React, MongoDB, Express, Tailwind and Node].**
 
-- 💬 Ask me about **web development.**
+- 💬 Ask me about **growth.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
