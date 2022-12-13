@@ -4,7 +4,8 @@
 <p align="left"> <a href="https://twitter.com/@thewallandthem" target="blank"><img src="https://img.shields.io/twitter/follow/@thewallandthem?logo=twitter&style=for-the-badge" alt="@thewallandthem" /></a> </p>
 
 - 🌱 I’m currently learning **the MERN stack [HTML, CSS, Javascript, React, MongoDB, Express, Tailwind and Node].**
-
+- 🧑‍💻 Next, I'll be diving into App Dev.
+- 📱 Then AI and ML.
 - 💬 Ask me about **growth.**
 
 <h3 align="left">Connect with me:</h3>
