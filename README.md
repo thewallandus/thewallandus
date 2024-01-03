@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aitijya Sarkar</h1>
 <h3 align="center">🧘🏽‍♂️ Someone who's knee deep into full stack web dev right now 🧘🏽‍♂️ </h3>
 
-- 🌱 I’m currently learning **the MERN stack [HTML, CSS, Javascript, React, MongoDB, Express, and Node].**
-- 🧑‍💻 Next, I'll be diving into App Dev.
-- 📱 Then AI and ML.
-- 💬 Ask me about **growth.**
+- 🌱 Currently building a bunch of side projects.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
