@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aitijya Sarkar</h1>
-<h3 align="center">🧘🏽‍♂️ Someone who's knee deep into full stack web dev right now 🧘🏽‍♂️ </h3>
 
 - 🌱 Currently building a bunch of side projects.
 
