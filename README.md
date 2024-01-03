@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aitijya Sarkar</h1>
 
-- 🌱 Currently building a bunch of side projects.
+<h1>🌱 Currently building a bunch of side projects.</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
