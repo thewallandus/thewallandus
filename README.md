@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aitijya Sarkar</h1>
 
-<h1>🌱 Currently heads down....building and shipping. 💻✊🏽</h1>
+<h1>🌱 Heads down building and shipping right now. 💻✊🏽</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
